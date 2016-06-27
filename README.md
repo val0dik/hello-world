@@ -1,2 +1,4 @@
 # hello-world
-Test repo
+Vladimir Kamyshanov
+Master of Computer Science
+Moscow, Russia
